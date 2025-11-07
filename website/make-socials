@@ -9,11 +9,11 @@
 . ./theme || exit
 
 readarray -t SOCIALS << "EOF"
-Instagram|https://ysap.sh/instagram
-YouTube|https://ysap.sh/youtube
-Patreon|https://ysap.sh/patreon
-Discord|https://ysap.sh/discord
-Twitch|https://ysap.sh/twitch
+Instagram|https://reddevildreambook.com/instagram
+YouTube|https://reddevildreambook.com/youtube
+Patreon|https://reddevildreambook.com/patreon
+Discord|https://reddevildreambook.com/discord
+Twitch|https://reddevildreambook.com/twitch
 EOF
 
 UNDERLINE=$'\x1b[3m'
