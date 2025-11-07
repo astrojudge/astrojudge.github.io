@@ -10,10 +10,8 @@
 . ./theme || exit 1
 
 readarray -t ABOUT << "EOF"
-Yo what's up everyone my name's
-Dave and you suck at programming.
-Connect with my socials or use this
-site to easily find my content!
+Having Bad Luck? Touched by Evil Hands? Need help in Love, Luck, & Money, etc.?
+CWJ can help with a reading from the Red Devil Dream Book
 EOF
 
 for line in "${ABOUT[@]}"; do
